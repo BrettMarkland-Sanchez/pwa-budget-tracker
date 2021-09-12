@@ -11,13 +11,21 @@ button, input {
 }
 
 button {
-  background: #8A33FE;
   border: none;
   border-radius: 4px;
   cursor: pointer;
   color: #FFFFFF;
   padding: 10px;
-  box-shadow: inset 0 -3px 0 0 #4801A5;
+}
+
+#add-btn {
+  background: #13b113;
+  box-shadow: inset 0 -3px 0 0 #0f8b0f;
+}
+
+#sub-btn {
+  background: #da1e1e;
+  box-shadow: inset 0 -3px 0 0 #a11616;
 }
 
 button:active {
