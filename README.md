@@ -6,7 +6,7 @@
   ## Deployed Application
   https://bms-pwa-budget-tracker.herokuapp.com/
   
-  ![image](https://user-images.githubusercontent.com/81937125/133095255-558d4c38-12a0-4999-bdfa-41e52b787363.png =250x)
+  ![image](https://user-images.githubusercontent.com/81937125/133095255-558d4c38-12a0-4999-bdfa-41e52b787363.png)
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
